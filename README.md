@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Rahil Ahmed, Passionate Game Developer with Unity expertise, translating ideas into captivating games. Skilled in coding, debugging, and fostering collaboration. Immersed in Pakistan's gaming landscape, and adept in user-centered design. Eager to push boundaries in game development and design. Let's connect and innovate!
+👋 Hi, I’m Rahil Ahmed, a Passionate Game Developer with Unity, translating ideas into captivating games. Skilled in coding, debugging, and fostering collaboration. Immersed in Pakistan's gaming landscape, and adept in user-centered design. Eager to push boundaries in game development and design. Let's connect and innovate!
 
 👀 Immersive Experience Designer, Game Developer.
 
